@@ -1,0 +1,1 @@
+# Text extraction from image and translation
